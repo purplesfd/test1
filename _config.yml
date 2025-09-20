@@ -1,5 +1,5 @@
 title: First Name
-logo: /assets/img/headshot.img
+#logo: /assets/img/headshot.img
 #description: My Resume
-show_downloads:true
+show_downloads: true
 theme: jekyll-theme-minimal
